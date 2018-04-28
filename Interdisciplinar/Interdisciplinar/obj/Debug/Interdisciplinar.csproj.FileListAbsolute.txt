@@ -1,0 +1,2 @@
+C:\Users\UNIFAFIBE\Music\Programação 4\Interdisciplinar\Interdisciplinar\bin\Debug\Interdisciplinar.exe.config
+C:\Users\UNIFAFIBE\Music\Programação 4\Interdisciplinar\Interdisciplinar\bin\Debug\Apresentacao.exe.config
