@@ -16,7 +16,7 @@ namespace Negocios
 
         public int Inserir(Credito credito)
         {
-            string queryInserir = "INSERT INTO cliente(idCredito, juros_anual," 
+            string queryInserir = "INSERT INTO tblCredito(idCredito, juros_anual," 
             + "max_parcelas, nome_linha) VALUES @IdCredito, @JurosAnual, @MaxParcelas, @NomeLinha);";
  
             acessoDados.LimparParametros();
